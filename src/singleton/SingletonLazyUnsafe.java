@@ -6,6 +6,8 @@ package singleton;
 public class SingletonLazyUnsafe {
     /**
      * 单列模式中的懒汉式，不是线程安全
+     * 优点：使用对象时才创建，避免了一开始就创建无用对象的问题
+     * 缺点：线程不安全
      */
     private static  SingletonLazyUnsafe singletonLazyUnsafe;
 
