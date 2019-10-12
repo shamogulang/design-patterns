@@ -3,7 +3,7 @@ package singleton;
 /**
  * @author chenjianhui on 2019/10/12
  */
-public class Main {
+public class Client {
     public static void main(String[] args) {
 
         //1、测试单列饿汉式
