@@ -1,4 +1,4 @@
-package factory.base;
+package factory.simple;
 
 /**
  * @author chenjianhui on 2019/10/12
