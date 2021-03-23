@@ -1,6 +1,6 @@
 package realwork.work.chain;
 
-import work.HandleContext;
+import realwork.work.HandleContext;
 
 public interface Chain {
 

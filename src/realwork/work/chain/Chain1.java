@@ -1,7 +1,7 @@
 package realwork.work.chain;
 
-import work.NotNullCheck;
-import work.TypeValidate1;
+import realwork.work.NotNullCheck;
+import realwork.work.TypeValidate1;
 
 public class Chain1 extends AbstractChain {
 

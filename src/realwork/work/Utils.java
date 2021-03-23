@@ -1,8 +1,8 @@
 package realwork.work;
 
-import work.chain.Chain;
-import work.chain.Chain0;
-import work.chain.Chain1;
+import realwork.work.chain.Chain;
+import realwork.work.chain.Chain0;
+import realwork.work.chain.Chain1;
 
 import java.math.BigDecimal;
 

@@ -1,6 +1,6 @@
 package realwork.work;
 
-import work.chain.Chain;
+import realwork.work.chain.Chain;
 
 public class Client {
 
