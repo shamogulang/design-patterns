@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rocketmq-client-4.9.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/rocketmq-client-4.9.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
